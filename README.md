@@ -1,4 +1,12 @@
 ## Olá! Eu me chamo Castro 
+
+
+<div>
+<h3>Sobre mim:</h3>
+Estudo Front End e Back end, mais especificamente HTML, CSS, PHP, pouco de JS, sei um pouco de MySQL e me aventuro um pouco em LUA. Nesse GITHUB vão encontrar vários projetos que vou fazendo pra poder estudar, nada tão profissional, mas é o bastante. Tenho um canal no youtube onde repasso uns ensinamentos do qual eu já tenho conhecimento, mostro algumas coisas que faço e é isso.
+</div>
+
+##
  <div>
   <a href="https://github.com/PauloCastro17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloCastro17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,10 +27,9 @@
 <div> 
   <a href="https://www.youtube.com/channel/UC20O7cplZyp1U9iCnfF-jqA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/paulo.vinicius172004" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.https://www.twitch.tv/castrogaymeplay" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
- 
+
+  
+
   ![Snake animation](https://github.com/PauloCastro17/PauloCastro17/blob/output/github-contribution-grid-snake.svg)
  
 </div>
