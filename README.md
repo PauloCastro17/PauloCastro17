@@ -3,7 +3,7 @@
 
 <div>
 <h3>Sobre mim:</h3>
-Estudo Front End e Back end, mais especificamente HTML, CSS, PHP, pouco de JS, sei um pouco de MySQL e me aventuro um pouco em LUA. Nesse GITHUB vão encontrar vários projetos que vou fazendo pra poder estudar, nada tão profissional, mas é o bastante. Tenho um canal no youtube onde repasso uns ensinamentos do qual eu já tenho conhecimento, mostro algumas coisas que faço e é isso.
+Estudo Front End e Back end, mais especificamente HTML, CSS, PHP, pouco de JS, sei um pouco de MySQL e me aventuro um pouco em LUA e também estudo React. Nesse GITHUB vão encontrar vários projetos que vou fazendo pra poder estudar, nada tão profissional, mas é o bastante. Tenho um canal no youtube onde repasso uns ensinamentos do qual eu já tenho conhecimento, mostro algumas coisas que faço e é isso.
 </div>
 
 ##
