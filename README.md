@@ -20,6 +20,7 @@ Estudo Front End e Back end, mais especificamente HTML, CSS, PHP, pouco de JS, s
   <img align="center" alt="Castro-FIGMA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Catro-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
   <img align="center" alt="Catro-VSCODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
+<img align="center" alt="Catro-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
 </div>
   
   ##
