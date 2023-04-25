@@ -29,5 +29,9 @@ Sou estudante de Sistemas de Informação. Estudo Front End e Back end, mais esp
   ##
  
 <div> 
+  
+  
   ![Snake animation](https://github.com/PauloCastro17/PauloCastro17/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+  
+  </div>
