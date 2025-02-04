@@ -9,7 +9,7 @@
 
 <div>
 <h3>Sobre mim:</h3>
-Sou estudante de Sistemas de Informação. Estudo Front End e Back end, mais especificamente HTML, CSS, PHP, pouco de JS, como banco de dados utilizo MySQL. Nesse GITHUB vão encontrar vários projetos que vou fazendo pra poder estudar. Tenho um canal no youtube onde repasso uns ensinamentos do qual eu já tenho conhecimento, mostro algumas coisas que faço e é isso.
+Me chamo Paulo Castro. Sou formado no técnico em informática e atualmente curso Sistemas de Informação. Sou mais focado na área de desenvolvimento web e tenho conhecimentos em HTML, CSS, JS, PHP e tenho noção de REACT, mexo com distribuilção Linux, entendo um pouco de Docker e estou sempre disposto a aprender cada vez mais.
 </div>
 
 ##
