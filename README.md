@@ -9,7 +9,7 @@
 
 <div>
 <h3>Sobre mim:</h3>
-Me chamo Paulo Castro. Sou formado no técnico em informática e atualmente curso Sistemas de Informação. Sou mais focado na área de desenvolvimento web e tenho conhecimentos em HTML, CSS, JS, PHP e tenho noção de REACT, mexo com distribuilção Linux, entendo um pouco de Docker e estou sempre disposto a aprender cada vez mais.
+Me chamo Paulo Castro. Sou formado no técnico em informática e atualmente curso análise e desenvolvimento de sistemas. Sou mais focado na área de desenvolvimento web e tenho conhecimentos em HTML, CSS, JS, PHP e tenho noção de REACT, mexo com distribuilção Linux, entendo um pouco de Docker e estou sempre disposto a aprender cada vez mais.
 </div>
 
 ##
